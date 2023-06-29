@@ -1,0 +1,5 @@
+﻿##SavedVariables: CustomGuildTooltip, guildMap
+##Title: CustomGuildTooltip
+##Notes: Enhances player tooltips by adding icons and custom colors for titles and guild names
+
+CustomGuildTooltip.lua
